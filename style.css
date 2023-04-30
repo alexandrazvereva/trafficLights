@@ -1,7 +1,15 @@
+body {
+    width: 1280px;
+    height: 1000px;
+}
+
 header {
     display: flex;
     justify-content: column;
     text-align: center;
+    width: 1280px;
+    height: 1000px;
+
 }
 
 .circle {
@@ -27,4 +35,9 @@ header {
 
 .green {
     background-color: aquamarine;
+}
+
+footer {
+    width: 1280px;
+    height: 1000px;
 }

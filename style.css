@@ -1,5 +1,30 @@
-header{
+header {
     display: flex;
     justify-content: column;
     text-align: center;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(217, 213, 213);
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.circle:hover {
+    cursor: pointer;
+    background-color: rgb(234, 228, 245);
+}
+
+.red {
+    background-color: rgb(211, 62, 69);
+}
+
+.yellow {
+    background-color: rgb(235, 213, 18);
+}
+
+.green {
+    background-color: aquamarine;
 }

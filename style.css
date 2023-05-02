@@ -4,16 +4,13 @@ body {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-
 }
 
 header {
     font-size: 20px;
     font-weight: bolder;
     color: rgb(110, 110, 28);
- 
-
-}
+ }
 
 main {
 
